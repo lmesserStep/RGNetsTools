@@ -1,6 +1,6 @@
 # RGNetsTool
 
-RGNetsTool is an interactive shell tool designed to assist network administrators in checking RADIUS realm logs, verifying LDAP bindings, and inspecting firewall logs on remote servers via SSH.
+RGNetsTool is an interactive shell tool designed to assist network administrators in checking RADIUS realm logs, verifying LDAP bindings, and inspecting firewall logs on the RGNets RXG.
 
 ## Features
 
